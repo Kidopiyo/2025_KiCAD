@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3, C4, C5, C6",CP_Radial_D8.0mm_P2.50mm,6,C_Polarized,
+J2,JST_XA_B02B-XASK-1-A_1x02_P2.50mm_Vertical,1,Conn_01x02,
+"J3, J4",JST_XA_B07B-XASK-1-A_1x07_P2.50mm_Vertical,2,Conn_01x07,
+J7,XAD_5x2,1,Conn_02x05_Top_Bottom,
+"R1, R2",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,R,
+SW1,PinHeader_1x03_P2.54mm_Vertical,1,SW_SPDT,
+U1,Arduino_Nano,1,~,
+U2,BNO055,1,~,

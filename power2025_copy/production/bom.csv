@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,Battery_in,
+J2,PinSocket_2x07_P2.54mm_Vertical,1,Conn_02x07_Odd_Even,
+J6,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,Motor1,
+J7,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,Motor3,
+J8,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,Motor2,
+J9,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,Motor4,
+Q1,TO-3P-3_Horizontal_TabDown,1,Q_PMOS_GDS,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,R,
+SW1,PinHeader_1x03_P2.54mm_Vertical,1,SW_SPDT,
+"U1, U2, U3, U4",DRV8835,4,~,
+"U5, U6",Akiduki_Converter,2,~,
